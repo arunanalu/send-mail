@@ -31,4 +31,4 @@ python3 main.py
 ```
 ----
 
-you can use a temporary email service to test
+you can use a temporary email service to test, like [temp-mail](https://temp-mail.org)
